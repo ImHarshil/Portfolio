@@ -1421,6 +1421,15 @@ span.icon_twitter {
 span.icon_facebook {
     background: #3b5998;
 }
+span.icon_github {
+    background: #000000;
+}
+span.icon_linkdin {
+    background: #000092;
+}
+span.icon_instagram {
+    background: #920000;
+}
 
 span.icon_dribbble {
     background: #ea4c89;
